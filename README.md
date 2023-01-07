@@ -9,3 +9,22 @@ Keeping an up-to-date asset inventory is an essential first step and requires it
 Making sure that your vulnerability scanning tools cover non-traditional assets such as BYOD devices, IoTs, mobile assets, and cloud services is essential.
 
 In a world where cyber threats can come from any direction and at any time, the ability to configure and perform continuous monitoring and scanning (as opposed to monthly or quarterly vulnerability scans) is key.
+
+# Installation
+
+pkg update  && pkg upgrade -y
+
+pkg install git
+
+pkg install python2
+
+cd Vul-Scanner
+
+bash install.sh
+
+python2 vul-scanner.py
+
+# Donation
+If you want to Donate Kindly click here Thank you.: https://www.buymeacoffee.com/junioprogrammer
+
+Please Share to your Friends Thank you.
