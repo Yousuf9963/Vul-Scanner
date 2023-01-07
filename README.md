@@ -18,6 +18,8 @@ pkg install git
 
 pkg install python2
 
+git clone https://github.com/Yousuf9963/Vul-Scanner.git
+
 cd Vul-Scanner
 
 bash install.sh
@@ -25,6 +27,9 @@ bash install.sh
 python2 vul-scanner.py
 
 # Donation
+
 If you want to Donate Kindly click here Thank you.: https://www.buymeacoffee.com/junioprogrammer
+
+# Follow, Star, and Share
 
 Please Share to your Friends Thank you.
