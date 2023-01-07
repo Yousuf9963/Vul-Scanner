@@ -24,7 +24,7 @@ cd Vul-Scanner
 
 bash install.sh
 
-python2 vul-scanner.py
+python2 vuln-scanner.py
 
 # Donation
 
